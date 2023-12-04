@@ -1,0 +1,10 @@
+This Python script serves as a simple band name generator. Here's how it works:
+1. The script starts with a greeting, printing "Hello, User."
+2. It then prompts the user to input the name of the city they grew up in by using `input()`. The entered value is stored in the variable `input_1`.
+3. Next, the script prompts the user to input the name of their pet using another `input()` statement. The entered value is stored in the variable `input_2`.
+4. Finally, the script prints the generated band name by concatenating the user's city name (`input_1`), a space, and the name of their pet (`input_2`).
+So, the band name is created by combining the city name and the pet name provided by the user.
+For example, if the user inputs "New Delhi" for the city and "Drogon" for the pet, the output might be something like:
+```
+The name of your band is: New Delhi Drogon
+```
