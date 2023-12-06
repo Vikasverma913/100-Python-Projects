@@ -1,0 +1,27 @@
+This Python script functions as a practical tool for calculating tips in a dining scenario. Here's a detailed breakdown of its operation:
+
+1. Introduction:
+   - The script starts with a welcoming message to the user, establishing a friendly interaction.
+
+2. Total Bill Input:
+   - The user is prompted to input the total amount of the bill.
+   - This input is crucial as it represents the overall cost before any tip is applied.
+
+3. Tip Percentage Input:
+   - The user is asked to specify the desired tip percentage.
+   - Common choices of 10, 12, or 15 percent are suggested, allowing for flexibility in tipping preferences.
+
+4. Number of People Input:
+   - The script seeks information on the number of individuals sharing the bill.
+   - This input is vital for evenly distributing the total cost, including the tip, among all participants.
+
+5. Tip Calculation:
+   - Using the provided total bill, tip percentage, and the number of people, the script computes the tip amount each person should contribute.
+   - The calculation involves multiplying the total bill by the tip percentage, adding this to the original bill to get the total cost with tip, and then dividing by the number of people.
+
+6. Result Presentation:
+   - The calculated tip amount per person is then presented in a clear and concise message.
+   - The message informs each individual of the recommended contribution towards the total bill, considering their chosen tip percentage and the number of people sharing the expense.
+
+In essence, this script simplifies the process of determining individual contributions for a group dining experience, ensuring a fair distribution of the bill inclusive of the chosen tip percentage. 
+Its user-friendly approach makes it accessible for various scenarios where shared expenses and tipping are involved.
